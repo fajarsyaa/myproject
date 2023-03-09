@@ -1,0 +1,1 @@
+Modulus dari 10 % 3 = 1
